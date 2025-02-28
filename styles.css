@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#Image1 {
+    position: absolute;
+    left: 1100px; /* Горизонтальное положение */
+    top: 0px;  /* Вертикальное положение */
+}
+
+h2 {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+#text1 {
+    position: absolute;
+    left: 1000px; /* Горизонтальное положение */
+    top: 90px; /* Вертикальное положение */
+}
